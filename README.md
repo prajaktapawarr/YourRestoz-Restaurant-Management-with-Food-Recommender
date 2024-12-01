@@ -42,7 +42,7 @@ Explore opportunities for further enhancements, such as leveraging collected dat
 
 # Contributors
 - [Prathamesh Mahamuni](https://github.com/prathameshmahamuni001) - Project Lead & Machine Learning Engineer
-* [Shudhanshu Prasad]() - Backend Developer & Quality Assurance Engineer
+* [Shudhanshu Prasad](https://github.com/Shudhanshu771) - Backend Developer & Quality Assurance Engineer
 + [Prajakta Pawar](https://github.com/prajaktapawarr) - UI designer & Content Writer
 - [Pranav Rajeevan](https://www.linkedin.com/in/pranav-rajeevan/) - Frontend Developer & UI/UX Designer
 
