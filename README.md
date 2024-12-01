@@ -15,3 +15,5 @@ A Flask-based web app using OpenAI's GPT via LangChain to provide restaurant man
 ![Screenshot 2024-12-01 162006](https://github.com/user-attachments/assets/fe08f4d4-ebc1-465b-a9a8-927ca99acbc8)
 ![Screenshot 2024-12-01 162016](https://github.com/user-attachments/assets/e29f35ae-f9bd-4049-802d-86a2382923e5)
 ![Screenshot 2024-12-01 162030](https://github.com/user-attachments/assets/7b5474ae-702a-42e9-a1c9-de7a5eefca6e)
+
+When a restaurant uses a management system, it helps the restaurant work faster and save money by making things more efficient.
