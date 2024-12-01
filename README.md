@@ -1,8 +1,8 @@
 # YourRestoz-Restaurant-Management-with-Food-Recommender
 A Flask-based web app using OpenAI's GPT via LangChain to provide restaurant management and food recommendations based on user inputs.
 
-# Key Features
-# AI/ML Integration-Food recommender
+## Key Features
+### AI/ML Integration-Food recommender
 
 1. Food and Diet Recommendation System
 Utilize the ML model to recommend personalized food and diet plans for customers based on their individual preferences, health conditions, and environmental factors.
@@ -32,7 +32,7 @@ Access the admin page to monitor and control all activities within the website, 
 5. Future Enhancements
 Explore opportunities for further enhancements, such as leveraging collected data to make informed decisions, expanding functionality, and integrating additional features to meet evolving business needs.
 
-# Technologies Used
+## Technologies Used
 - Frontend: HTML, CSS, JavaScript
 * Backend: PHP
 + Database: MySQL
@@ -40,7 +40,7 @@ Explore opportunities for further enhancements, such as leveraging collected dat
 * Payment Integration: Razorpay SDK
 + APIs: UPI & OpenAI
 
-# Contributors
+## Contributors
 - [Prathamesh Mahamuni](https://github.com/prathameshmahamuni001) - Project Lead & Machine Learning Engineer
 * [Shudhanshu Prasad](https://github.com/Shudhanshu771) - Backend Developer & Quality Assurance Engineer
 + [Prajakta Pawar](https://github.com/prajaktapawarr) - UI designer & Content Writer
