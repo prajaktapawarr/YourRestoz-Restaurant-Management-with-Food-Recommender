@@ -33,12 +33,12 @@ Access the admin page to monitor and control all activities within the website, 
 Explore opportunities for further enhancements, such as leveraging collected data to make informed decisions, expanding functionality, and integrating additional features to meet evolving business needs.
 
 # Technologies Used
--Frontend: HTML, CSS, JavaScript
-*Backend: PHP
-+Database: MySQL
--Machine Learning: Python (scikit-learn, TensorFlow, etc.)
-*Payment Integration: Razorpay SDK
-+APIs: UPI & OpenAI
+- Frontend: HTML, CSS, JavaScript
+* Backend: PHP
++ Database: MySQL
+- Machine Learning: Python (scikit-learn, TensorFlow, etc.)
+* Payment Integration: Razorpay SDK
++ APIs: UPI & OpenAI
 
 # Contributors
 [Prathamesh Mahamuni](https://github.com/prathameshmahamuni001) - Project Lead & Machine Learning Engineer
